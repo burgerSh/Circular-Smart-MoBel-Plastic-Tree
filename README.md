@@ -3,7 +3,7 @@ Circular-Smart-MoBel-Plastic-Tree คือ website ที่ช่วยใน�
 โดย Website นี้ออกแบบมาเพื่อช่วยในการออกแบบผลิตภัณฑ์พลาสติกประเภทเครื่องใช้ที่เกี่ยวกับอาหาร โดยไม่กระทบต่อสิ่งแวดล้อม และ ช่วยลดต้นทุนได้
 
 นาย มัทธิว ขำดี 67160365
-นายอิศรานุวัฒน์ จันทร์แก้ว 67160243
+นาย อิศรานุวัฒน์ จันทร์แก้ว 67160243
 
 🌿 Circular Smart MoBel Plastic Tree
 3D Eco-Packaging Design & Carbon Footprint Calculator
